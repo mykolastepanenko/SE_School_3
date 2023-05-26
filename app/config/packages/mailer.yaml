@@ -1,0 +1,4 @@
+framework:
+    mailer:
+#        dsn: '%env(MAILER_DSN)%'
+        dsn: smtp://nikolaua36@gmail.com:WUqjb892LYhS1tkO@smtp-relay.sendinblue.com:587
